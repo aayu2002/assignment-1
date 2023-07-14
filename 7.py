@@ -10,7 +10,6 @@ def move_zeros(nums):
   while j < len(nums):
     nums[j] = 0
     j += 1
-
   return nums
 nums = [0, 1, 0, 3, 12]
 
