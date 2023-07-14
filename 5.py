@@ -1,5 +1,5 @@
 def merge_sorted_arrays(nums1, m, nums2, n):
-
+  
   for i in range(m):
     nums1[i + n] = nums1[i]
 
