@@ -1,5 +1,4 @@
 def find_duplicate_and_missing(nums):
-
   seen = set()
   duplicate = None
   missing = None
